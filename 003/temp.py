@@ -4,6 +4,7 @@ Spyder Editor
 
 This is a temporary script file.
 """
+
 from bs4 import BeautifulSoup as bs
 import requests
 
