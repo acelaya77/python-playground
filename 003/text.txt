@@ -1,0 +1,66 @@
+make-model
+    length feet
+price
+location
+broker
+description
+
+
+
+        <div class="information-container">
+            <div class="information">
+                <div class="make-model">
+                    <a href="https://www.yachtworld.com/boats/2014/dufour-500-grand-large-3216884/" data-reporting-click-product-id="6736748" data-reporting-click-listing-type="standard listing" onclick="setCkRC('&ro=2&r=3216884&rs=yachtworld.com&currency=USD&boat_id=3216884&checked_boats=3216884');"
+                       name="&lpos=P1S1&lid=SR_Detail_Photo">
+                        
+                    <span class="length feet">
+                        
+                                48&nbsp;ft
+                            
+                    </span>
+                    2014
+                    Dufour
+                    500 Grand Large
+                    </a>
+                </div>
+                <div class="price">
+                    
+                            
+                                    
+                                    US$293,214
+                                <span class="currNote">*</span>
+                        
+                </div>
+                <div class="location">
+                    
+                        
+                                
+                                    Lignano Sabbiadoro, 
+                                
+                                
+                                
+                                    Italy
+                                
+                            
+                    
+                </div>
+                <div class="broker">
+                    
+                            Oceanis Yachts
+                        
+                </div>
+            </div>
+        </div>
+        <div class="description-container">
+            <span class="all-description">
+            <div class="description">
+                Boat in excellent condition, only&nbsp;a single owner,&nbsp;bow thruster, stern thruster,&nbsp;heating,&nbsp;2016 performance sails,&nbsp;original sails in Dacron, inverter Victron
+            </div>
+            <div class="searchResultsDetailsLogos">
+                
+                
+                
+                
+            </div>
+            </span>
+        </div>
