@@ -1,0 +1,14 @@
+CMD>
+    Netsh DHCP show server >> ../DropBox/Dropbox/_SHARED_WORK/DOCUMENTS/dhcp_servers.txt
+
+BASH>
+sed -n '/^\t.*/p' ../DropBox/Dropbox/_SHARED_WORK/DOCUMENTS/dhcp_servers.txt | sort -k3 | awk 'BEGIN{print "NUMBER,SERVER,ADDRESS,LOCATION"} {gsub("\\[","",$2);gsub("\\]","",$2);gsub("\\[","",$4);gsub("
+\\]","",$4); printf "%02d,%s,%s,%s\n", NR,$2,$4,$7 }' > ../DropBox/Dropbox/_SHARED_WORK/DOCUMENTS/dhcp_servers.csv
+
+sed -n '/^\t.*/p'........................... print all lines which begin with <tab>
+sort -k3.................................... sort by 3rd column
+gsub("\\[","",$2)........................... replace '[' with nothing for filed $2
+printf "%02d,%s,%s,%s\n", NR,$2,$4,$7....... format output with leading zero for record number (NR)
+
+
+sed -n '/\a\t.*/p' dhcp_servers.txt | awk 'BEGIN{OFS=","; print "\"Number\",\"Server\",Address\",\"Location\""}; {split($2,a,"[\\[\\]]");split($4,b,"[\\[\\]]"); printf "\"%02d\",\"%s\",\"%s\",\"%s\"\n",  NR,a[2],b[2],$7}' > dhcp_servers_2.csv

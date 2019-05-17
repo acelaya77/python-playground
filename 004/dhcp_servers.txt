@@ -1,0 +1,165 @@
+
+80 Servers were found in the directory service:
+
+	Server [sccas001.scccd.net] Address [10.128.4.18] Ds location: cn=10.128.4.18 
+
+	Server [sctcdc01.scccd.net] Address [10.136.4.10] Ds location: cn=10.136.4.10 
+
+	Server [socsusris001.scccd.net] Address [10.144.10.31] Ds location: cn=10.144.10.31 
+
+	Server [socdc003.scccd.net] Address [10.144.4.14] Ds location: cn=10.144.4.14 
+
+	Server [swidc01.scccd.net] Address [10.160.60.10] Ds location: cn=10.160.60.10 
+
+	Server [swidc02.scccd.net] Address [10.160.60.15] Ds location: cn=10.160.60.15 
+
+	Server [sctcdc01.scccd.net] Address [10.32.10.4] Ds location: cn=10.32.10.4 
+
+	Server [sfcdc01.scccd.net] Address [10.32.4.14] Ds location: cn=10.32.4.14 
+
+	Server [sdoasris002.scccd.net] Address [10.4.152.11] Ds location: cn=10.4.152.11 
+
+	Server [sdodc01.scccd.net] Address [10.4.4.11] Ds location: cn=10.4.4.11 
+
+	Server [sdodc02.scccd.net] Address [10.4.4.12] Ds location: cn=10.4.4.12 
+
+	Server [smcdc01.scccd.net] Address [10.4.4.141] Ds location: cn=10.4.4.141 
+
+	Server [srcdc01.scccd.net] Address [10.4.4.172] Ds location: cn=10.4.4.172 
+
+	Server [sdofs001.scccd.net] Address [10.4.4.20] Ds location: cn=10.4.4.20 
+
+	Server [swidc02.scccd.net] Address [10.4.4.201] Ds location: cn=10.4.4.201 
+
+	Server [swidc01.scccd.net] Address [10.4.4.202] Ds location: cn=10.4.4.202 
+
+	Server [srcdc01.scccd.net] Address [10.64.4.10] Ds location: cn=10.64.4.10 
+
+	Server [srcris001.scccd.net] Address [10.64.4.254] Ds location: cn=10.64.4.254 
+
+	Server [srcris001.SCCCD.NET] Address [10.64.4.254] Ds location: cn=10.64.4.254 
+
+	Server [srcris001.SCCCD.NET] Address [10.64.7.100] Ds location: cn=10.64.7.100 
+
+	Server [srcris001.SCCCD.NET] Address [10.64.7.101] Ds location: cn=10.64.7.101 
+
+	Server [smcsusris001.scccd.net] Address [10.96.4.31] Ds location: cn=10.96.4.31 
+
+	Server [smcdc002.scccd.net] Address [10.96.4.15] Ds location: cn=smcdc002.scccd.net 
+
+	Server [sdodc003.scccd.net] Address [10.4.4.13] Ds location: cn=sdodc003.scccd.net 
+
+	Server [socdc003.scccd.net] Address [10.144.10.14] Ds location: cn=socdc003.scccd.net 
+
+	Server [sctcdc001.scccd.net] Address [10.136.10.5] Ds location: cn=sctcdc001.scccd.net 
+
+	Server [sccsusris001.scccd.net] Address [10.128.4.31] Ds location: cn=sccsusris001.scccd.net 
+
+	Server [socas001] Address [10.144.10.15] Ds location: cn=socas001 
+
+	Server [socdc002.scccd.net] Address [10.4.10.202] Ds location: cn=socdc002.scccd.net 
+
+	Server [sccas001.scccd.net] Address [10.128.4.18] Ds location: cn=sccas001.scccd.net 
+
+	Server [sccdc002.scccd.net] Address [10.128.4.15] Ds location: cn=sccdc002.scccd.net 
+
+	Server [smcas011.scccd.net] Address [10.96.4.21] Ds location: cn=smcas011.scccd.net 
+
+	Server [smcas015.scccd.net] Address [10.98.220.2] Ds location: cn=smcas015.scccd.net 
+
+	Server [srcdc001.scccd.net] Address [10.64.4.10] Ds location: cn=srcdc001.scccd.net 
+
+	Server [srcdc003.scccd.net] Address [10.64.4.15] Ds location: cn=srcdc003.scccd.net 
+
+	Server [sfcdc004.scccd.net] Address [10.32.4.16] Ds location: cn=sfcdc004.scccd.net 
+
+	Server [smercdc003.scccd.net] Address [10.152.4.30] Ds location: cn=smercdc003.scccd.net 
+
+	Server [socdc001.scccd.net] Address [10.144.10.10] Ds location: cn=socdc001.scccd.net 
+
+	Server [smcas001.scccd.net] Address [10.96.10.10] Ds location: cn=smcas001.scccd.net 
+
+	Server [smcdc001.scccd.net] Address [10.96.4.10] Ds location: cn=smcdc001.scccd.net 
+
+	Server [sccdc001.scccd.net] Address [10.128.4.10] Ds location: cn=sccdc001.scccd.net 
+
+	Server [smercdc001.scccd.net] Address [10.152.4.10] Ds location: cn=smercdc001.scccd.net 
+
+	Server [sdodc001.scccd.net] Address [10.4.4.14] Ds location: cn=sdodc001.scccd.net 
+
+	Server [sfcdc001.scccd.net] Address [10.32.4.10] Ds location: cn=sfcdc001.scccd.net 
+
+	Server [sfcdc002.scccd.net] Address [10.32.4.15] Ds location: cn=sfcdc002.scccd.net 
+
+	Server [sfcdc002.scccd.net] Address [10.40.250.15] Ds location: cn=sfcdc002.scccd.net 
+
+	Server [sfcdc001.scccd.net] Address [10.40.2.100] Ds location: cn=sfcdc001.scccd.net 
+
+	Server [sfcdc001.scccd.net] Address [10.40.250.10] Ds location: cn=sfcdc001.scccd.net 
+
+	Server [sfcdc001.scccd.net] Address [10.20.1.1] Ds location: cn=sfcdc001.scccd.net 
+
+	Server [sdodc002.scccd.net] Address [10.10.1.2] Ds location: cn=sdodc002.scccd.net 
+
+	Server [sdodc001.scccd.net] Address [10.10.1.1] Ds location: cn=sdodc001.scccd.net 
+
+	Server [sccdc1-08e.scccd.net] Address [10.128.4.11] Ds location: cn=sccdc1-08e.scccd.net 
+
+	Server [sctcdc1-08e.scccd.net] Address [10.136.4.10] Ds location: cn=sctcdc1-08e.scccd.net 
+
+	Server [sdodc1-08e.scccd.net] Address [10.4.5.11] Ds location: cn=sdodc1-08e.scccd.net 
+
+	Server [sdodc3-08e.scccd.net] Address [10.4.5.13] Ds location: cn=sdodc3-08e.scccd.net 
+
+	Server [sdodc3b-08e.scccd.net] Address [10.17.1.13] Ds location: cn=sdodc3b-08e.scccd.net 
+
+	Server [sdodhcpsrv.scccd.net] Address [10.17.113.16] Ds location: cn=sdodhcpsrv.scccd.net 
+
+	Server [sdowds1.scccd.net] Address [10.17.130.16] Ds location: cn=sdowds1.scccd.net 
+
+	Server [sfcdhcp-lp-01.scccd.net] Address [10.32.5.46] Ds location: cn=sfcdhcp-lp-01.scccd.net 
+
+	Server [sfcdhcp1.scccd.net] Address [10.31.167.10] Ds location: cn=sfcdhcp1.scccd.net 
+
+	Server [sfcdhcp2.scccd.net] Address [10.31.167.11] Ds location: cn=sfcdhcp2.scccd.net 
+
+	Server [sfcsvcs1-08e.scccd.net] Address [10.32.4.14] Ds location: cn=sfcsvcs1-08e.scccd.net 
+
+	Server [sfcsvcs2-08e.scccd.net] Address [10.32.4.16] Ds location: cn=sfcsvcs2-08e.scccd.net 
+
+	Server [sfcsvcs3-08e.scccd.net] Address [10.31.101.11] Ds location: cn=sfcsvcs3-08e.scccd.net 
+
+	Server [sfcsvcs4-08e.scccd.net] Address [10.31.8.10] Ds location: cn=sfcsvcs4-08e.scccd.net 
+
+	Server [SMCAS03.SCCCD.NET] Address [10.96.4.42] Ds location: cn=SMCAS03.SCCCD.NET 
+
+	Server [smcdc1.scccd.net] Address [10.96.4.19] Ds location: cn=smcdc1.scccd.net 
+
+	Server [socas01.scccd.net] Address [169.254.125.59] Ds location: cn=socas01.scccd.net 
+
+	Server [socdc1-08e.scccd.net] Address [10.4.5.251] Ds location: cn=socdc1-08e.scccd.net 
+
+	Server [socdhcp.scccd.net] Address [10.144.4.45] Ds location: cn=socdhcp.scccd.net 
+
+	Server [socsusris001.scccd.net] Address [10.144.4.31] Ds location: cn=socsusris001.scccd.net 
+
+	Server [srcas02.scccd.net] Address [10.64.4.40] Ds location: cn=srcas02.scccd.net 
+
+	Server [srcas03.scccd.net] Address [10.64.4.45] Ds location: cn=srcas03.scccd.net 
+
+	Server [srcclass.SCCCD.NET] Address [10.64.4.105] Ds location: cn=srcclass.SCCCD.NET 
+
+	Server [srcdc2.scccd.net] Address [10.64.4.12] Ds location: cn=srcdc2.scccd.net 
+
+	Server [srcdc2.scccd.net] Address [10.4.5.101] Ds location: cn=srcdc2.scccd.net 
+
+	Server [srcfs01dhcp.scccd.net] Address [10.64.4.45] Ds location: cn=srcfs01dhcp.scccd.net 
+
+	Server [srcfs01dhcp2.scccd.net] Address [10.64.4.47] Ds location: cn=srcfs01dhcp2.scccd.net 
+
+	Server [swiav01.scccd.net] Address [10.160.32.15] Ds location: cn=swiav01.scccd.net 
+
+	Server [swids01.scccd.net] Address [10.160.32.20] Ds location: cn=swids01.scccd.net 
+
+
+Command completed successfully.
